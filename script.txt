@@ -1,0 +1,63 @@
+prabanjan:
+
+Good morning sir.
+
+I am Prabanjan, and our project is titled “Implementation of Arthur Scherbius’s Enigma Cipher Machine.”
+
+The main aim of our project is to simulate the encryption and decryption process of the Enigma machine using C and Python.
+
+The Enigma machine was used by the German military during World War II to send secret coded messages.
+
+It used rotors, plugboards, and a reflector to change every letter typed into another letter, creating a secret code.
+
+I worked on researching the original Enigma mechanism and understanding how each part — rotor and reflector — contributed to encryption.
+
+This study helped our team design a modern digital version of the Enigma machine.
+
+
+Ruchita:
+
+I am Ruchitha, and I worked on the encryption and decryption logic using the C programming language.
+
+The libraries used were:
+
+stdlib.h – for memory functions
+
+ctype.h – for character handling
+
+string.h – for string operations
+
+The program takes a plaintext message and passes it through multiple logical steps, similar to the Enigma’s rotor mechanism.
+
+It then produces an encrypted output which can only be decoded using the same settings.
+
+We also made small modifications to the original algorithm to make it stronger and more adaptable for today’s systems.
+
+This part of the project helped us understand how simple logic can create powerful encryption.
+
+Tanuja:
+
+I am Thanuja, and I developed the Graphical User Interface (GUI) using Python and Tkinter.
+
+The GUI makes the Enigma simulation easy and interactive.
+
+Users can:
+
+Type a message
+
+Click Encrypt or Decrypt
+
+Instantly see the output on the screen
+
+This visual interface helps users clearly understand how encryption works in real time.
+
+In conclusion:
+
+Our project successfully demonstrates how the Enigma cipher machine performs encryption and decryption.
+
+The C program handles the logic, and the Python GUI provides a user-friendly interface.
+
+As a future plan, we aim to implement Alan Turing’s Bombe Machine, which was used to crack the Enigma code.
+
+Thank you sir, for the guidance and opportunity to work on this project.
+
